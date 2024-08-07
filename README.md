@@ -15,9 +15,11 @@ Through this practice repository, you'll gain foundational knowledge about:
 This foundational knowledge will prepare you for more advanced topics in Salesforce development.
 
 ## Setup
+
 [Setup Overview](https://learn.cloudcodeacademy.com/courses/salesforce-developer-kickstart-program/lectures/47317682)
 
 ## Getting Started Checklist
+
 1. Create/Configure a trailhead playground or developer org to do your work throughout this program.
 2. Install Visual Studio Code from [here](https://code.visualstudio.com/download).
 3. Install Salesforce Extension Pack in Visual Studio Code. This can be done by searching 'Salesforce Extension Pack' in the Extensions view in VS Code and clicking Install.
