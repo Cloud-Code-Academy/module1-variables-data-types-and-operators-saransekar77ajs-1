@@ -35,6 +35,7 @@ public with sharing class VariablesDataTypesOperators {
     if (a == null || b == null) {
       return null;
     }
+    System.debug(a + b);
     return a + b;
   }
 
